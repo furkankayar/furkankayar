@@ -10,8 +10,6 @@ After my internship at ASELSAN, I started working at Legaling. I worked on Djang
 I'm best reached via [email](mailto:furkankayar27@gmail.com). I'm always open to interesting conversations and collaboration.
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/chipro?label=Follow&style=social)](https://twitter.com/chipro)
-
 ----
 
 Last Edited on: 03/03/2021
