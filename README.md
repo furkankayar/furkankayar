@@ -30,7 +30,7 @@ I'm best reached via [email](mailto:furkankayar27@gmail.com). I'm always open to
 <img src="https://camo.githubusercontent.com/9c5e7333f1c4ac09c07988ceda17508df89b6830fe0b8fb416c4be19c5841578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7675652e737667" alt="vue" width="40" height="40"/>
 <img src="https://www.iconninja.com/files/480/670/489/jquery-javascript-icon.png" alt="jquery" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://github.com/prplx/svg-logos/blob/master/svg/github-icon.svg" alt="github" width="40" height="40"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="github" width="40" height="40"/>
 <img src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667" alt="linux" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo-ubuntu_cof-white_orange-hex.svg" alt="ubuntu" width="40" height="40"/>
 <img src="https://github.com/prplx/svg-logos/blob/master/svg/docker.svg" alt="docker" width="40" height="40"/>
